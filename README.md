@@ -8,4 +8,4 @@ Gizlilik esas, dedikodu serbest (ama kendi aramızda tabii).
 İstek mi? Yaz, 5 dakikada çözülür (müsaitsek hemen tabii).
 
 Katılmak isteyenleri şöyle alalım:  
-[https://t.me/+3mtucdnWs3ZlZjdk](https://t.me/+3mtucdnWs3ZlZjdk)
+
