@@ -27,5 +27,4 @@ Sorularınız mı var? Bizimle iletişime geçmek için Telegram kanalımızdan 
 
 **Türk İfşa VIP** ile eğlencenin ve özel içeriklerin tadını çıkarın! Hemen katıl ve aramıza hoş geldin! 🎉
 
-![Türk İfşa VIP Banner](https://via.placeholder.com/800x200.png?text=Türk+İfşa+VIP)  
-*Görsel sadece yer tutucu içindir, kendi banner'ınızı ekleyebilirsiniz!*
+
